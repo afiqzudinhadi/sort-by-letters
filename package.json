@@ -1,0 +1,15 @@
+{
+	"name": "cliselect",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"index": "node index.js"
+	},
+	"author": "afiqzudinhadi",
+	"license": "ISC",
+	"dependencies": {
+		"@inquirer/prompts": "^5.0.6"
+	},
+	"type": "module"
+}
